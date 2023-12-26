@@ -7,8 +7,10 @@ for animal in animals:
 print(filtered_animal)
 
 
-animals = ['lion', 'tiger', 'monkey', 'elephant', 'frog']
 
+#using list comprehension syntax 
+
+animals = ['lion', 'tiger', 'monkey', 'elephant', 'frog']
 filtered_animals = [animal.title() for animal in animals]
 
 print(filtered_animals)
