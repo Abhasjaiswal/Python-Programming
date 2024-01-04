@@ -28,5 +28,5 @@ del List
 List=["Abhas","Jaiswal","name"]
 List.clear()
 print(List)
-
+print(List)
 
