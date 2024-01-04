@@ -42,3 +42,5 @@ If you're also learning Python and want to contribute or provide suggestions, fe
 
 Happy coding!
 
+
+This README was created with the assistance of ChatGPT
